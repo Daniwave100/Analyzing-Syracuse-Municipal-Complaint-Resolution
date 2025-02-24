@@ -1,6 +1,6 @@
 # Analyzing Municipal Complaint Resolution: Efficiency, Trends, and Departmental Performance in Syracuse
- **Daniel Canhedo - CuseHacks Datathon 2025**
- **🏆Won Category for Best Presentation**
+**Daniel Canhedo - CuseHacks Datathon 2025**  
+**🏆 Won Category for Best Presentation 🏆**
 
 ## 📌 Introduction
 This analysis explores **how efficiently Syracuse handles municipal complaints** through the **SYRCityline dataset**, which contains reports on non-emergency issues submitted by residents. The goal is to understand:
