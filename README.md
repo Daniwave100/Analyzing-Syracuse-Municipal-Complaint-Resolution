@@ -43,7 +43,6 @@ To explore these questions, we will use:
 - **📈 Machine Learning Predictions**:
    - **Linear Regression**: Predicting resolution time based on complaint type.
    - **Decision Tree Regressor**: Predicting future resolution performance across all departments
-   - **Random Forest Regressor**: Improving resolution time predictions.
 
 By leveraging **data analysis and predictive modeling**, we can uncover actionable insights to help **improve complaint resolution efficiency** in Syracuse.
 
