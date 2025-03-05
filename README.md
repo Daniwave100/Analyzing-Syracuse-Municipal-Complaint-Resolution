@@ -38,8 +38,6 @@ To explore these questions, we will use:
 - **📊 Data Visualization**:
    - Bar charts for complaint distribution
    - Line charts to track resolution trends over time
-   - Heatmaps for analyzing seasonal trends
-   - Box plots to show resolution time variance
 - **📈 Machine Learning Predictions**:
    - **Linear Regression**: Predicting resolution time based on complaint type.
    - **Decision Tree Regressor**: Predicting future resolution performance across all departments
